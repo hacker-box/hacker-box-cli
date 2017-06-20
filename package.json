@@ -1,0 +1,35 @@
+{
+  "name": "@victordoss/hacker-box-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "hacker-box-cli": "bin/hacker-box-cli.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "firebase": "^3.8.0",
+    "firebase-queue": "^1.6.1",
+    "hasbin": "^1.2.3",
+    "mkdirp": "^0.5.1",
+    "prettier": "^1.2.2",
+    "ps-tree": "^1.1.0",
+    "spawn-args": "^0.2.0",
+    "strip-ansi": "^3.0.1",
+    "superagent": "^3.5.2"
+  },
+  "description": "Cli to run dev server tasks",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidoss/hacker-box-cli.git"
+  },
+  "author": "vidoss",
+  "bugs": {
+    "url": "https://github.com/vidoss/hacker-box-cli/issues"
+  },
+  "homepage": "https://github.com/vidoss/hacker-box-cli#readme"
+}
