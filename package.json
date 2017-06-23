@@ -25,11 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vidoss/hacker-box-cli.git"
+    "url": "git+https://github.com/hacker-box/hacker-box-cli.git"
   },
   "author": "vidoss",
   "bugs": {
-    "url": "https://github.com/vidoss/hacker-box-cli/issues"
+    "url": "https://github.com/hacker-box/hacker-box-cli/issues"
   },
-  "homepage": "https://github.com/vidoss/hacker-box-cli#readme"
+  "homepage": "https://github.com/hacker-box/hacker-box-cli#readme"
 }
